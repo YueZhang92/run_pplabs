@@ -1,4 +1,4 @@
-function [ success ] = RUN_try( listener)
+function [ success ] = run_ppLabs( listener)
 %running demo
 
 
