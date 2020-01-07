@@ -1,5 +1,4 @@
-%adapted from readTobiiJson_word2.m
-%reading .csv files from pupilLabs for SSD project
+%reading .csv files from pupilLabs 
 %20191212 Yue ZHANG
 %how to use:
 %1. add the .m file to the matlab path; either by running
